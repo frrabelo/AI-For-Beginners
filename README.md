@@ -197,5 +197,5 @@ Our team produces other curricula! Check out:
 - [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI)
 
 ## Onde eu achei este repositório:
-https://dev.to/arjuncodess/free-ai-course-by-microsoft-zero-to-hero-59gi
+https://dev.to/arjuncodess/free-ai-course-by-microsoft-zero-to-hero-59gi .
 https://microsoft.github.io/AI-For-Beginners/
